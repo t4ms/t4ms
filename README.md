@@ -5,4 +5,4 @@
 <p>I'm Thomas, born in Germany 🇩🇪 , based in the beautiful Lower-Rhine-Area (next to Düsseldorf, Cologne and the Ruhr-Area)</p>
     <h1>Headline1</h1>
 </div>
-<img src='/Users/ThSchweers/Dropbox/2021Project/t4ms/t4ms_intro.svg' />
+<img src='t4ms_introCSS.svg' />
