@@ -1,13 +1,34 @@
+<style>
+    table {
+    table-layout: fixed ;
+    width: 100% ;
+    }
+    td {
+    width: 20% ;
+    }
+    .imgSvg {
+        margin: 0 0 20px 0;
+    }
+</style>
+
 # Hi there 👋
 
 
 <div>
-<p>I'm Thomas, a Full-Stack Developer & UX/UI Designer born in Germany 🇩🇪 , based in the beautiful Lower-Rhine-Area (next to Düsseldorf, Cologne and the Ruhr-Area)</p>
-    <h3>💡 Having ideas is the one thing ...</h3>
-    <img src='images/t4ms_introCSS.svg' />
+<p>I'm Thomas, a Full-Stack Developer & UX/UI Designer born in Germany 🇩🇪 and based in the beautiful Lower-Rhine-Area (next to Düsseldorf, Cologne and the Ruhr-Area)</p>
+    <h3>💡 Having ideas is the one thing ... bringing to live the other one</h3>
+    <br>
+    <img class="imgSvg" src='images/t4ms_introCSS.svg' />
+    <br>
     <h3>⚙️ I bring combination skills, technical ability and dynamic creativity to get ideas working</h3>
+    <br>
+    <h3>💬 Looking forward to get in touch with you via <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thomas-schweers-1bbb6b168/"><img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=LinkedIn" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="mailto:th.schweers@googlemail.com"><img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail" style="max-width:100%;"></a>
+    </h3>
 </div>
-
+<br>
+<hr>
+<br>
 <h2>My Public Projects</h2>
 
 <table>
@@ -19,7 +40,9 @@
     <th>Link</th>
 </tr>
 <tr>
-    <td><img serc="public/images/sportform.svg">Agroform</td>
+    <td style="text-align: center"><img width="80px" src="images/agroform.svg">
+    <h3>Agroform</h3>
+    </td>
     <td>Agroform is a plattform for farmers to find a contrator depending on there needs. The farmers could create, update and delete fields with a history of services on there fields. Contractor can add vehicules and services to there portfolio. [Ironhack Projekt 3]</td>
     <td>Develop a SPA (Single Page Application) with User authentication and CRUD of fields, services, vehicles and quotes and offers. Database mongoDB / Backend node.js / Frontend React / Deployment on heroku</td>
         <td>
@@ -41,7 +64,12 @@
     </td>
 </tr>
 <tr>
-     <td><img src="public/images/sportform.svg">Sportform</td>
+     <td style="text-align: center">
+        <img width="80px" src="images/footballCourtsmall.svg">
+        <img width="80px" src="images/basketballCourtsmall.svg">
+        <img width="80px" src="images/volleyballCourtsmall.svg">
+        <h3>Sportform</h3>
+     </td>
      <td>Plattform for sportsman to find the right court for their favorite sports [Ironhack Projekt 2]</td>
      <td>Develop a plattform with login, logout and CRUD courts and join and chat-funciton. Deployment on heroku</td>
         <td>
@@ -62,7 +90,10 @@
     </td>
    </tr>
    <tr>
-    <td><img src="02Content/maexchen.svg">Mr. Mäxchen</td>
+    <td style="text-align: center">
+        <img width="80px" src="images/maexchen.svg">
+        <h3>Mr. Mäxchen</h3>
+    </td>
     <td>Drinking game for a good time in pub [Ironhack Projekt 1]</td>
     <td>Develop a simple Game with Javascript and DOM-Manipulation. Deployment on github-pages. Have fun:)</td>
     <td>
@@ -77,7 +108,10 @@
       </td>
 </tr>
 <tr>
-    <td><img src="images/ICON-restaurierung.svg">Kant & Oldenburg Möbel</td>
+    <td style="text-align: center">
+        <img width="80px" src="images/ICON-restaurierung.svg">
+        <h3>Kant & Oldenburg Möbel</h3>
+    </td>
     <td>Website for the company Kant & Oldenburg Furniture</td>
     <td>Created with wordpress. Setup & Customize of wordpress theme and working with extentions.</td>
     <td>
@@ -90,7 +124,10 @@
       </td>
 </tr>
 <tr>
-    <td><img src="images/rid.svg">Rock in´t Dörp - Festival</td>
+    <td style="text-align: center">
+        <img width="80px" src="images/rid.svg">
+        <h3>Rock in´t Dörp - Festival</h3>
+    </td>
     <td>Festival for local bands in my area. 8 years old roughly 1000 people pa.</td>
     <td>Voluntary organization of the festival + doing all around design, website, SEO, social media, etc.</td>
     <td>
