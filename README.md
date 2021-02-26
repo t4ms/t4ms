@@ -9,13 +9,16 @@
     <br>
     <h3>⚙️ I bring combination skills, technical ability and dynamic creativity to get ideas working</h3>
     <br>
-    <h3>💼 I´m currently working as a Salesforce admin for a German mechanical engineering company
+    <h3>💪🏻 Working in a strong Team I really enjoy</h3>
+    <br>
+    <h3>💼 I´m currently working as a Salesforce admin 
     <a target="_blank" rel="noopener noreferrer" href="https://www.salesforce.com/de/products/sales-cloud/overview/"><img src="https://img.shields.io/badge/sales%20cloud-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="hhttps://www.salesforce.com/de/products/marketing-cloud/overview/"><img src="https://img.shields.io/badge/Pardot-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://www.salesforce.com/de/products/service-cloud/overview/"><img src="https://img.shields.io/badge/service%20cloud-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
     </h3>
     <h3>💬 Looking forward to get in touch with you via <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thomas-schweers-1bbb6b168/"><img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=LinkedIn" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="mailto:th.schweers@googlemail.com"><img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail" style="max-width:100%;"></a>
+    for a German mechanical engineering company
     </h3>
 </div>
 <br>
@@ -35,7 +38,7 @@
     <td style="text-align: center"><img width="80px" src="images/agroform.svg">
     <h3>Agroform</h3>
     </td>
-    <td>Agroform is a plattform for farmers to find a contrator depending on there needs. The farmers could create, update and delete fields with a history of services on there fields. Contractor can add vehicules and services to there portfolio. [Ironhack Projekt 3]</td>
+    <td>Agroform is a plattform for farmers to find a contrator depending on their needs. The farmers can create, update and delete fields with a history of services on these fields. Contractor can add vehicules and services to their portfolio. [Ironhack Projekt 3]</td>
     <td>Develop a SPA (Single Page Application) with User authentication and CRUD of fields, services, vehicles and quotes and offers. Database mongoDB / Backend node.js / Frontend React / Deployment on heroku</td>
         <td>
         <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b78effd0bf898b043de732ebd9a520e93717fa8d0103e471d5af8c93e8f899a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b78effd0bf898b043de732ebd9a520e93717fa8d0103e471d5af8c93e8f899a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b" alt="" data-canonical-src="https://img.shields.io/badge/JavaScript-informational?style=flat&amp;logo=JavaScript&amp;logoColor=ColorName&amp;color=black" style="max-width:100%;"></a>
@@ -86,7 +89,7 @@
         <img width="80px" src="images/maexchen.svg">
         <h3>Mr. Mäxchen</h3>
     </td>
-    <td>Drinking game for a good time in pub [Ironhack Projekt 1]</td>
+    <td>Drinking game for a good time in a pub [Ironhack Projekt 1]</td>
     <td>Develop a simple Game with Javascript and DOM-Manipulation. Deployment on github-pages. Have fun:)</td>
     <td>
         <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b78effd0bf898b043de732ebd9a520e93717fa8d0103e471d5af8c93e8f899a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/b78effd0bf898b043de732ebd9a520e93717fa8d0103e471d5af8c93e8f899a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d436f6c6f724e616d6526636f6c6f723d626c61636b" alt="" data-canonical-src="https://img.shields.io/badge/JavaScript-informational?style=flat&amp;logo=JavaScript&amp;logoColor=ColorName&amp;color=black" style="max-width:100%;"></a>
@@ -105,7 +108,7 @@
         <h3>Kant & Oldenburg Möbel</h3>
     </td>
     <td>Website for the company Kant & Oldenburg Furniture</td>
-    <td>Created with wordpress. Setup & Customize of wordpress theme and working with extentions.</td>
+    <td>Created with wordpress. Setup & customize of wordpress theme and working with extentions.</td>
     <td>
         <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/wordpress-black?style=plastic&logo=WordPress"><img src="https://img.shields.io/badge/wordpress-black?style=plastic&logo=WordPress" style="max-width:100%;"></a>
         <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/HTML-black?style=plastic&logo=HTML5"><img src="https://img.shields.io/badge/HTML-black?style=plastic&logo=HTML5" style="max-width:100%;"></a>
@@ -120,7 +123,7 @@
         <img width="80px" src="images/rid.svg">
         <h3>Rock in´t Dörp - Festival</h3>
     </td>
-    <td>Festival for local bands in my area. 8 years old roughly 1000 people pa.</td>
+    <td>Festival for local bands in my area. 8 years old event - roughly 1000 people p.a.</td>
     <td>Voluntary organization of the festival + doing all around design, website, SEO, social media, etc.</td>
     <td>
         <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/HTML-black?style=plastic&logo=HTML5"><img src="https://img.shields.io/badge/HTML-black?style=plastic&logo=HTML5" style="max-width:100%;"></a>
