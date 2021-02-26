@@ -1,16 +1,3 @@
-<style>
-    table {
-    table-layout: fixed ;
-    width: 100% ;
-    }
-    td {
-    width: 20% ;
-    }
-    .imgSvg {
-        margin: 0 0 20px 0;
-    }
-</style>
-
 # Hi there 👋
 
 
@@ -22,6 +9,11 @@
     <br>
     <h3>⚙️ I bring combination skills, technical ability and dynamic creativity to get ideas working</h3>
     <br>
+    <h3>💼 I´m currently working as a Salesforce admin for a German mechanical engineering company
+    <a target="_blank" rel="noopener noreferrer" href="https://www.salesforce.com/de/products/sales-cloud/overview/"><img src="https://img.shields.io/badge/sales%20cloud-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="hhttps://www.salesforce.com/de/products/marketing-cloud/overview/"><img src="https://img.shields.io/badge/Pardot-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.salesforce.com/de/products/service-cloud/overview/"><img src="https://img.shields.io/badge/service%20cloud-black?style=plastic&logo=Salesforce" style="max-width:100%;"></a>
+    </h3>
     <h3>💬 Looking forward to get in touch with you via <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thomas-schweers-1bbb6b168/"><img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=LinkedIn" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="mailto:th.schweers@googlemail.com"><img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail" style="max-width:100%;"></a>
     </h3>
